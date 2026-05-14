@@ -2,3 +2,7 @@
 
 
 Console.WriteLine("This is a test.");
+
+
+
+Console.WindowHeight;
